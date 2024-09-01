@@ -40,8 +40,8 @@ This project is a frontend application that fetches and displays the latest heal
 
 
 # ScreenShot
-![Image of adduser](https://github.com/fuleswari220/NewsApp/blob/main/Screenshots/1.png)
 ![Image of adduser](https://github.com/fuleswari220/NewsApp/blob/main/Screenshots/2.png)
+![Image of adduser](https://github.com/fuleswari220/NewsApp/blob/main/Screenshots/1.png)
 ![Image of adduser](https://github.com/fuleswari220/NewsApp/blob/main/Screenshots/3.png)
 
 
